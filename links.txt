@@ -1,10 +1,10 @@
 My master address: 0x11226DD58a3Ff28CCB7c762007965De59Aa78F41
 
-MyToken contract address:
+My contract addresses:
 ======================================
 https://etherscan.io/address/0x688d989e28a0c76d6278d89b598c4021a82ac99f
 https://etherscan.io/address/0x96b234a9a95f4a6932dbdf743114e377f6407ba1
-
+https://etherscan.io/address/0x2ecd015ad5eb8acce78119bf16e3741a058a9837
 
 Related eth addresses:
 ======================================
